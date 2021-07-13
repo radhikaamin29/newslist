@@ -1,0 +1,22 @@
+[
+  {
+    "id": "US",
+    "name": "USA"
+  },
+  {
+    "id": "AU",
+    "name": "Australia"
+  },
+  {
+    "id": "KR",
+    "name": "Korea"
+  },
+  {
+    "id": "JP",
+    "name": "Japan"
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand"
+  }
+]
